@@ -2,8 +2,8 @@ from flask_restx import Api
 
 api = Api(
     version="1.0",
-    title="API de Psicanalise",
-    description="Documentação da API sobre Psicanálise ",
+    title="𝚿 API MIUDESA 𝚿",
+    description="Documentação da API sobre clinica psicoterapia ",
     doc="/",
     mask_swagger=False,
 )

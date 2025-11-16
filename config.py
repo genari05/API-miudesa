@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app,
      resources={r"/*": {"origins": [
          "http://localhost:3000",
-         "https://clinica-miudesa.vercel.app"
+         "https://clinica-miudesa-psi.vercel.app/"
      ]}},
      supports_credentials=True
 )
